@@ -83,3 +83,7 @@
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Naveenmon&icon=5&color=0)](https://visitcount.itsvg.in)
