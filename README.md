@@ -1,5 +1,5 @@
+
 <img src="animated/hands.gif" height="40" />***Hey, My name is Naveen and I'm a Software Developer.***
-<h2 align="left">My name is Naveen and I'm a Software Developer.</h2>
 
 ## 🔗 Links 
 
