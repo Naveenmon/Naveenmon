@@ -16,8 +16,6 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenmon&show_icons=true&theme=radical)
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Naveenmon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naveenmon&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -25,7 +23,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenmon&theme=github-compact)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Naveenmon&theme=discord)
 
 
 # Tech Stack<img src="animated/fire.gif" height="40" />:
