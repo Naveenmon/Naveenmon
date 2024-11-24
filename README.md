@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
-# <img src="animated/book.gif" height="35" /> Tech Stack:
+# <img src="animated/book.gif" height="30" /> Tech Stack:
 
 ### 💻 Programming Language
 
