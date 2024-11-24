@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Naveen and I'm a Software Developer.</h2>
 
 ###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -59,7 +59,6 @@
 </div>
 
 ###
-# 💻 Tech Stack:
 <div align="left">
   <a href="mailto:naveenarumugam.off@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -75,6 +74,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Naveenmon/Naveenmon/output/github-snake.svg" />
 </picture> <br/>
 
+###
 
 ![](https://github-readme-stats.vercel.app/api?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveenmon&theme=dark&hide_border=false)<br/>
