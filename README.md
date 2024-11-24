@@ -1,7 +1,7 @@
 
 # <img src="animated/hands.gif" height="40" />***Hey, My name is Naveen and I'm a Software Developer.***
 
-## 🔗 Links <img src="animated/hands.gif" height="30" />
+## 🔗 Links <img src="animated/smoke.gif" height="30" />
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zrpR4QW2zW11yzwHgeiKXhL24UGoEc3p/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:naveenarumugam.off@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://naveen-dev-portfolio.vercel.app/) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+919500272160) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenmon/)
 
@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
-# <img src="animated/book.gif" height="30" /> Tech Stack:
+# Tech Stack <img src="animated/fire.gif" height="30" />:
 
 ### 💻 Programming Language
 
