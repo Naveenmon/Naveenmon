@@ -73,10 +73,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveenmon/Naveenmon/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveenmon/Naveenmon/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Naveenmon/Naveenmon/output/github-snake.svg" />
-</picture>
+</picture> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naveenmon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveenmon&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 
 ###
