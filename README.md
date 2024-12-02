@@ -18,7 +18,6 @@
 
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Naveenmon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naveenmon&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenmon&layout=compact&theme=blue-green)
 
